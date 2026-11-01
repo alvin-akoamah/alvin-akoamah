@@ -32,4 +32,4 @@ I'm open to:
 - Fully funded postgraduate scholarships
 - Professional networking and knowledge sharing
 
-*Feel free to explore my repositories and connect with me!*
+*Feel free to explore my repositories. I would love to hear from you!*
