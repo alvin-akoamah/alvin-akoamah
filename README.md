@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 
 
-# Welcome to my GitHub profile! 🌱 
+# Welcome to my GitHub profile! ⚡
 
-**I'm Alvin**, a Computer Science and Engineering graduate and IEEE-published researcher, currently building a career in **Data Analytics and AI/Machine Learning Engineering.**
+**I'm Alvin**, a CSE graduate and IEEE-published researcher, currently building a career in **Data Analytics and AI/Machine Learning Engineering.**
 
 Using data, analytical thinking, and emerging technologies to solve real-world problems is my passion. I have a strong interest in **research**, particularly in applying data-driven insights and AI/ML technologies to the energy sector, with a special focus on the Oil and Gas industry.
 
